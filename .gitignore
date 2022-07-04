@@ -1,3 +1,6 @@
 # Ignored Files by Git
 /out/
 /.idea/
+/*.class
+/*/*.class
+/.attach*
